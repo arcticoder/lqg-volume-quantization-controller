@@ -1,5 +1,15 @@
 # LQG Volume Quantization Controller
 
+## Related Repositories
+
+- [energy](https://github.com/arcticoder/energy): Central meta-repo for all energy, quantum, and LQG research. This controller provides discrete spacetime management for the ecosystem.
+- [unified-lqg](https://github.com/arcticoder/unified-lqg): Core LQG framework supplying SU(2) representation theory and volume eigenvalue foundations.
+- [lqg-ftl-metric-engineering](https://github.com/arcticoder/lqg-ftl-metric-engineering): Primary integration target using discrete spacetime V_min patch management for FTL applications.
+- [warp-field-coils](https://github.com/arcticoder/warp-field-coils): Integrates LQG polymer-enhanced electromagnetic fields with maximum strength enhancement.
+- [su2-node-matrix-elements](https://github.com/arcticoder/su2-node-matrix-elements): Provides SU(2) matrix element calculations for j(j+1) quantum number control.
+
+All repositories are part of the [arcticoder](https://github.com/arcticoder) ecosystem and link back to the energy framework for unified documentation and integration.
+
 **Discrete Spacetime V_min Patch Management Using SU(2) Representation Control j(j+1)**
 
 This repository implements the foundational volume quantization controller for the LQG FTL Metric Engineering ecosystem, providing precise management of discrete spacetime patches through SU(2) quantum number control.
