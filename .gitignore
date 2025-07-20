@@ -151,3 +151,5 @@ test_imports.py
 update-progress.txt
 
 .github/instructions/copilot-instructions.md
+
+.github/
